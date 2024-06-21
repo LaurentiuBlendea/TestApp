@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\TestApp\ProcessApp\bin\Debug\net6.0\ProcessApp.exe
+C:\Users\Administrator\Desktop\TestApp\ProcessApp\bin\Debug\net6.0\ProcessApp.deps.json
+C:\Users\Administrator\Desktop\TestApp\ProcessApp\bin\Debug\net6.0\ProcessApp.runtimeconfig.json
+C:\Users\Administrator\Desktop\TestApp\ProcessApp\bin\Debug\net6.0\ProcessApp.dll
+C:\Users\Administrator\Desktop\TestApp\ProcessApp\bin\Debug\net6.0\ProcessApp.pdb
+C:\Users\Administrator\Desktop\TestApp\ProcessApp\obj\Debug\net6.0\ProcessApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\TestApp\ProcessApp\obj\Debug\net6.0\ProcessApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\TestApp\ProcessApp\obj\Debug\net6.0\ProcessApp.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\TestApp\ProcessApp\obj\Debug\net6.0\ProcessApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TestApp\ProcessApp\obj\Debug\net6.0\ProcessApp.dll
+C:\Users\Administrator\Desktop\TestApp\ProcessApp\obj\Debug\net6.0\refint\ProcessApp.dll
+C:\Users\Administrator\Desktop\TestApp\ProcessApp\obj\Debug\net6.0\ProcessApp.pdb
+C:\Users\Administrator\Desktop\TestApp\ProcessApp\obj\Debug\net6.0\ProcessApp.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\TestApp\ProcessApp\obj\Debug\net6.0\ref\ProcessApp.dll
